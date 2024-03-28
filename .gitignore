@@ -20,3 +20,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#表示项目中的pyc文件不需要被管理，因为这些文件代码是根据py生成的
+*.pyc
